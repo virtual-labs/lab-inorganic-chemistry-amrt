@@ -36,49 +36,49 @@
     "name": "Gravimetric Estimation of Barium",
     "short-name": "gravimetric-estimation-barium",
     "repo": "https://github.com/virtual-labs/exp-gravimetric-estimation-barium-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Gravimetric Estimation of Nickel",
     "short-name": "gravimetric-estimation-nickel",
     "repo": "https://github.com/virtual-labs/exp-gravimetric-estimation-nickel-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Crystal Field Theory",
     "short-name": "crystal-field-theory",
     "repo": "https://github.com/virtual-labs/exp-crystal-field-theory-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Group Theory",
     "short-name": "group-theory",
     "repo": "https://github.com/virtual-labs/exp-group-theory-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Alloy Analysis (Brass)",
     "short-name": "alloy-analysis-brass",
     "repo": "https://github.com/virtual-labs/exp-alloy-analysis-brass-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Soil Analysis - Determination of Specific conductivity of Soil",
     "short-name": "soil-analysis-specific-conductivity",
     "repo": "https://github.com/virtual-labs/exp-specific-conductivity-soil-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Soil Analysis - Determination of pH of Soil",
     "short-name": "soil-analysis-ph",
     "repo": "https://github.com/virtual-labs/exp-determination-ph-soil-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
