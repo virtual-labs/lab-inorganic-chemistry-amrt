@@ -57,7 +57,7 @@
     "name": "Group Theory",
     "short-name": "group-theory",
     "repo": "https://github.com/virtual-labs/exp-group-theory-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
